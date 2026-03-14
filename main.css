@@ -1,0 +1,51 @@
+html {
+color:#ffc862;
+background-color:#333e36;
+font-family: Verdana;
+background-image:url(https://moissanite.neocities.org/test.png);
+}
+
+yay:hover {
+color:Aquamarine;
+}
+
+a:visited {
+color: Cyan;
+text-decoration: none;
+}
+
+a {
+color: Cyan;
+text-decoration: none;
+}
+
+.fuzzy-bubbles-regular {
+font-family: "Fuzzy Bubbles", sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+.fuzzy-bubbles-bold {
+font-family: "Fuzzy Bubbles", sans-serif;
+font-weight: 700;
+font-style: normal;
+}
+
+.special-elite-regular {
+font-family: "Special Elite", sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+.special-elite-bold {
+font-family: "Special Elite", sans-serif;
+font-weight: 700;
+font-style: normal;
+}
+
+.pixelfy-sans {
+font-family: "Pixelfy Sans", sans-serif;
+font-optical-sizing: auto;
+font-weight: 400;
+font-style: normal;
+}
