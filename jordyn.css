@@ -1,0 +1,49 @@
+/* Start https://www.cursors-4u.com */ * {cursor: url(https://cur.cursors-4u.net/cursors/cur-2/cur114.ani), url(https://cur.cursors-4u.net/cursors/cur-2/cur114.png), auto !important;} /* End https://www.cursors-4u.com */
+body {
+  background-color: #232B13;
+  color: blue;
+  
+}
+
+p {
+    color: palegreen;
+}
+
+html {
+    font-family: "Special Elite";
+}
+
+p:hover {
+color: mintcream;   
+       
+}
+
+p::selection {
+    color: lightcoral;
+}
+
+
+ul {
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+}
+
+li a {
+    display: block;
+    color: mintcream;
+    padding: 16px 32px;
+    text-decoration: none;
+}
+
+li a:hover {
+ color: seagreen;   
+ background-color: lightgrey;
+}
+
+.special-elite-regular {
+  font-family: "Special Elite", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  
+}
